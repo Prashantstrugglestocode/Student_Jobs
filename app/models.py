@@ -49,6 +49,7 @@ class Job(Base):
     id = Column(Integer, primary_key=True, index=True)
     title = Column(String, index=True)
     job_title = Column(String, nullable=False)
+    description = Column(String, nullable=False)
     company_name = Column(String, nullable=False)
     user_id = Column(Integer, ForeignKey("users.id", ondelete="CASCADE"), nullable=False)
     posted_at = Column(TIMESTAMP(timezone=True), nullable=False)
