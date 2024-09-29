@@ -1,0 +1,2409 @@
+[
+    {
+        "label": "FastAPI",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Response",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "status",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Depends",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "FastAPI",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Depends",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "status",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "FastAPI",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Response",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "status",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Depends",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "FastAPI",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Depends",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "status",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "FastAPI",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Response",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "status",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Depends",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "FastAPI",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Depends",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "status",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "OAuth2PasswordRequestForm",
+        "importPath": "fastapi.security.oauth2",
+        "description": "fastapi.security.oauth2",
+        "isExtraImport": true,
+        "detail": "fastapi.security.oauth2",
+        "documentation": {}
+    },
+    {
+        "label": "OAuth2PasswordRequestForm",
+        "importPath": "fastapi.security.oauth2",
+        "description": "fastapi.security.oauth2",
+        "isExtraImport": true,
+        "detail": "fastapi.security.oauth2",
+        "documentation": {}
+    },
+    {
+        "label": "OAuth2PasswordRequestForm",
+        "importPath": "fastapi.security.oauth2",
+        "description": "fastapi.security.oauth2",
+        "isExtraImport": true,
+        "detail": "fastapi.security.oauth2",
+        "documentation": {}
+    },
+    {
+        "label": "Session",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "sessionmaker",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "relationship",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "Session",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "Session",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "sessionmaker",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "relationship",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "Session",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "Session",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "sessionmaker",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "relationship",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "Session",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "app.models",
+        "description": "app.models",
+        "isExtraImport": true,
+        "detail": "app.models",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "app.models",
+        "description": "app.models",
+        "isExtraImport": true,
+        "detail": "app.models",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "app.models",
+        "description": "app.models",
+        "isExtraImport": true,
+        "detail": "app.models",
+        "documentation": {}
+    },
+    {
+        "label": "BaseSettings",
+        "importPath": "pydantic_settings",
+        "description": "pydantic_settings",
+        "isExtraImport": true,
+        "detail": "pydantic_settings",
+        "documentation": {}
+    },
+    {
+        "label": "BaseSettings",
+        "importPath": "pydantic_settings",
+        "description": "pydantic_settings",
+        "isExtraImport": true,
+        "detail": "pydantic_settings",
+        "documentation": {}
+    },
+    {
+        "label": "BaseSettings",
+        "importPath": "pydantic_settings",
+        "description": "pydantic_settings",
+        "isExtraImport": true,
+        "detail": "pydantic_settings",
+        "documentation": {}
+    },
+    {
+        "label": "create_engine",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Column",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Integer",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "String",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "ForeignKey",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Table",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "create_engine",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Column",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Integer",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "String",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "ForeignKey",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Table",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "create_engine",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Column",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Integer",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "String",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "ForeignKey",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Table",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "declarative_base",
+        "importPath": "sqlalchemy.ext.declarative",
+        "description": "sqlalchemy.ext.declarative",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.ext.declarative",
+        "documentation": {}
+    },
+    {
+        "label": "declarative_base",
+        "importPath": "sqlalchemy.ext.declarative",
+        "description": "sqlalchemy.ext.declarative",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.ext.declarative",
+        "documentation": {}
+    },
+    {
+        "label": "declarative_base",
+        "importPath": "sqlalchemy.ext.declarative",
+        "description": "sqlalchemy.ext.declarative",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.ext.declarative",
+        "documentation": {}
+    },
+    {
+        "label": "users",
+        "importPath": "app.api",
+        "description": "app.api",
+        "isExtraImport": true,
+        "detail": "app.api",
+        "documentation": {}
+    },
+    {
+        "label": "jobs",
+        "importPath": "app.api",
+        "description": "app.api",
+        "isExtraImport": true,
+        "detail": "app.api",
+        "documentation": {}
+    },
+    {
+        "label": "users",
+        "importPath": "app.api",
+        "description": "app.api",
+        "isExtraImport": true,
+        "detail": "app.api",
+        "documentation": {}
+    },
+    {
+        "label": "jobs",
+        "importPath": "app.api",
+        "description": "app.api",
+        "isExtraImport": true,
+        "detail": "app.api",
+        "documentation": {}
+    },
+    {
+        "label": "users",
+        "importPath": "app.api",
+        "description": "app.api",
+        "isExtraImport": true,
+        "detail": "app.api",
+        "documentation": {}
+    },
+    {
+        "label": "jobs",
+        "importPath": "app.api",
+        "description": "app.api",
+        "isExtraImport": true,
+        "detail": "app.api",
+        "documentation": {}
+    },
+    {
+        "label": "text",
+        "importPath": "sqlalchemy.sql.expression",
+        "description": "sqlalchemy.sql.expression",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.sql.expression",
+        "documentation": {}
+    },
+    {
+        "label": "text",
+        "importPath": "sqlalchemy.sql.expression",
+        "description": "sqlalchemy.sql.expression",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.sql.expression",
+        "documentation": {}
+    },
+    {
+        "label": "text",
+        "importPath": "sqlalchemy.sql.expression",
+        "description": "sqlalchemy.sql.expression",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.sql.expression",
+        "documentation": {}
+    },
+    {
+        "label": "TIMESTAMP",
+        "importPath": "sqlalchemy.sql.sqltypes",
+        "description": "sqlalchemy.sql.sqltypes",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.sql.sqltypes",
+        "documentation": {}
+    },
+    {
+        "label": "TIMESTAMP",
+        "importPath": "sqlalchemy.sql.sqltypes",
+        "description": "sqlalchemy.sql.sqltypes",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.sql.sqltypes",
+        "documentation": {}
+    },
+    {
+        "label": "TIMESTAMP",
+        "importPath": "sqlalchemy.sql.sqltypes",
+        "description": "sqlalchemy.sql.sqltypes",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.sql.sqltypes",
+        "documentation": {}
+    },
+    {
+        "label": "JWTError",
+        "importPath": "jose",
+        "description": "jose",
+        "isExtraImport": true,
+        "detail": "jose",
+        "documentation": {}
+    },
+    {
+        "label": "jwt",
+        "importPath": "jose",
+        "description": "jose",
+        "isExtraImport": true,
+        "detail": "jose",
+        "documentation": {}
+    },
+    {
+        "label": "JWTError",
+        "importPath": "jose",
+        "description": "jose",
+        "isExtraImport": true,
+        "detail": "jose",
+        "documentation": {}
+    },
+    {
+        "label": "jwt",
+        "importPath": "jose",
+        "description": "jose",
+        "isExtraImport": true,
+        "detail": "jose",
+        "documentation": {}
+    },
+    {
+        "label": "JWTError",
+        "importPath": "jose",
+        "description": "jose",
+        "isExtraImport": true,
+        "detail": "jose",
+        "documentation": {}
+    },
+    {
+        "label": "jwt",
+        "importPath": "jose",
+        "description": "jose",
+        "isExtraImport": true,
+        "detail": "jose",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "timedelta",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "timedelta",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "timedelta",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "OAuth2PasswordBearer",
+        "importPath": "fastapi.security",
+        "description": "fastapi.security",
+        "isExtraImport": true,
+        "detail": "fastapi.security",
+        "documentation": {}
+    },
+    {
+        "label": "OAuth2PasswordBearer",
+        "importPath": "fastapi.security",
+        "description": "fastapi.security",
+        "isExtraImport": true,
+        "detail": "fastapi.security",
+        "documentation": {}
+    },
+    {
+        "label": "OAuth2PasswordBearer",
+        "importPath": "fastapi.security",
+        "description": "fastapi.security",
+        "isExtraImport": true,
+        "detail": "fastapi.security",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "EmailStr",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "EmailStr",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "EmailStr",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "pandas",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "pandas",
+        "description": "pandas",
+        "detail": "pandas",
+        "documentation": {}
+    },
+    {
+        "label": "time",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "time",
+        "description": "time",
+        "detail": "time",
+        "documentation": {}
+    },
+    {
+        "label": "sleep",
+        "importPath": "time",
+        "description": "time",
+        "isExtraImport": true,
+        "detail": "time",
+        "documentation": {}
+    },
+    {
+        "label": "sleep",
+        "importPath": "time",
+        "description": "time",
+        "isExtraImport": true,
+        "detail": "time",
+        "documentation": {}
+    },
+    {
+        "label": "sleep",
+        "importPath": "time",
+        "description": "time",
+        "isExtraImport": true,
+        "detail": "time",
+        "documentation": {}
+    },
+    {
+        "label": "BeautifulSoup",
+        "importPath": "bs4",
+        "description": "bs4",
+        "isExtraImport": true,
+        "detail": "bs4",
+        "documentation": {}
+    },
+    {
+        "label": "BeautifulSoup",
+        "importPath": "bs4",
+        "description": "bs4",
+        "isExtraImport": true,
+        "detail": "bs4",
+        "documentation": {}
+    },
+    {
+        "label": "BeautifulSoup",
+        "importPath": "bs4",
+        "description": "bs4",
+        "isExtraImport": true,
+        "detail": "bs4",
+        "documentation": {}
+    },
+    {
+        "label": "Service",
+        "importPath": "selenium.webdriver.chrome.service",
+        "description": "selenium.webdriver.chrome.service",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.chrome.service",
+        "documentation": {}
+    },
+    {
+        "label": "Service",
+        "importPath": "selenium.webdriver.chrome.service",
+        "description": "selenium.webdriver.chrome.service",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.chrome.service",
+        "documentation": {}
+    },
+    {
+        "label": "Service",
+        "importPath": "selenium.webdriver.chrome.service",
+        "description": "selenium.webdriver.chrome.service",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.chrome.service",
+        "documentation": {}
+    },
+    {
+        "label": "webdriver",
+        "importPath": "selenium",
+        "description": "selenium",
+        "isExtraImport": true,
+        "detail": "selenium",
+        "documentation": {}
+    },
+    {
+        "label": "webdriver",
+        "importPath": "selenium",
+        "description": "selenium",
+        "isExtraImport": true,
+        "detail": "selenium",
+        "documentation": {}
+    },
+    {
+        "label": "webdriver",
+        "importPath": "selenium",
+        "description": "selenium",
+        "isExtraImport": true,
+        "detail": "selenium",
+        "documentation": {}
+    },
+    {
+        "label": "By",
+        "importPath": "selenium.webdriver.common.by",
+        "description": "selenium.webdriver.common.by",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.common.by",
+        "documentation": {}
+    },
+    {
+        "label": "By",
+        "importPath": "selenium.webdriver.common.by",
+        "description": "selenium.webdriver.common.by",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.common.by",
+        "documentation": {}
+    },
+    {
+        "label": "By",
+        "importPath": "selenium.webdriver.common.by",
+        "description": "selenium.webdriver.common.by",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.common.by",
+        "documentation": {}
+    },
+    {
+        "label": "WebDriverWait",
+        "importPath": "selenium.webdriver.support.ui",
+        "description": "selenium.webdriver.support.ui",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.support.ui",
+        "documentation": {}
+    },
+    {
+        "label": "WebDriverWait",
+        "importPath": "selenium.webdriver.support.ui",
+        "description": "selenium.webdriver.support.ui",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.support.ui",
+        "documentation": {}
+    },
+    {
+        "label": "WebDriverWait",
+        "importPath": "selenium.webdriver.support.ui",
+        "description": "selenium.webdriver.support.ui",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.support.ui",
+        "documentation": {}
+    },
+    {
+        "label": "expected_conditions",
+        "importPath": "selenium.webdriver.support",
+        "description": "selenium.webdriver.support",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.support",
+        "documentation": {}
+    },
+    {
+        "label": "expected_conditions",
+        "importPath": "selenium.webdriver.support",
+        "description": "selenium.webdriver.support",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.support",
+        "documentation": {}
+    },
+    {
+        "label": "expected_conditions",
+        "importPath": "selenium.webdriver.support",
+        "description": "selenium.webdriver.support",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.support",
+        "documentation": {}
+    },
+    {
+        "label": "Options",
+        "importPath": "selenium.webdriver.chrome.options",
+        "description": "selenium.webdriver.chrome.options",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.chrome.options",
+        "documentation": {}
+    },
+    {
+        "label": "Options",
+        "importPath": "selenium.webdriver.chrome.options",
+        "description": "selenium.webdriver.chrome.options",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.chrome.options",
+        "documentation": {}
+    },
+    {
+        "label": "Options",
+        "importPath": "selenium.webdriver.chrome.options",
+        "description": "selenium.webdriver.chrome.options",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.chrome.options",
+        "documentation": {}
+    },
+    {
+        "label": "Keys",
+        "importPath": "selenium.webdriver.common.keys",
+        "description": "selenium.webdriver.common.keys",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.common.keys",
+        "documentation": {}
+    },
+    {
+        "label": "Keys",
+        "importPath": "selenium.webdriver.common.keys",
+        "description": "selenium.webdriver.common.keys",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.common.keys",
+        "documentation": {}
+    },
+    {
+        "label": "Keys",
+        "importPath": "selenium.webdriver.common.keys",
+        "description": "selenium.webdriver.common.keys",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.common.keys",
+        "documentation": {}
+    },
+    {
+        "label": "csv",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "csv",
+        "description": "csv",
+        "detail": "csv",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "load_dotenv",
+        "importPath": "dotenv",
+        "description": "dotenv",
+        "isExtraImport": true,
+        "detail": "dotenv",
+        "documentation": {}
+    },
+    {
+        "label": "load_dotenv",
+        "importPath": "dotenv",
+        "description": "dotenv",
+        "isExtraImport": true,
+        "detail": "dotenv",
+        "documentation": {}
+    },
+    {
+        "label": "load_dotenv",
+        "importPath": "dotenv",
+        "description": "dotenv",
+        "isExtraImport": true,
+        "detail": "dotenv",
+        "documentation": {}
+    },
+    {
+        "label": "CryptContext",
+        "importPath": "passlib.context",
+        "description": "passlib.context",
+        "isExtraImport": true,
+        "detail": "passlib.context",
+        "documentation": {}
+    },
+    {
+        "label": "CryptContext",
+        "importPath": "passlib.context",
+        "description": "passlib.context",
+        "isExtraImport": true,
+        "detail": "passlib.context",
+        "documentation": {}
+    },
+    {
+        "label": "CryptContext",
+        "importPath": "passlib.context",
+        "description": "passlib.context",
+        "isExtraImport": true,
+        "detail": "passlib.context",
+        "documentation": {}
+    },
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "json",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "json",
+        "description": "json",
+        "detail": "json",
+        "documentation": {}
+    },
+    {
+        "label": "argparse",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "argparse",
+        "description": "argparse",
+        "detail": "argparse",
+        "documentation": {}
+    },
+    {
+        "label": "pformat",
+        "importPath": "pprint",
+        "description": "pprint",
+        "isExtraImport": true,
+        "detail": "pprint",
+        "documentation": {}
+    },
+    {
+        "label": "jmespath",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "jmespath",
+        "description": "jmespath",
+        "detail": "jmespath",
+        "documentation": {}
+    },
+    {
+        "label": "exceptions",
+        "importPath": "jmespath",
+        "description": "jmespath",
+        "isExtraImport": true,
+        "detail": "jmespath",
+        "documentation": {}
+    },
+    {
+        "label": "new_user_register",
+        "kind": 2,
+        "importPath": "app.api.users",
+        "description": "app.api.users",
+        "peekOfCode": "def new_user_register(user_registration : schemas.UserCreate , db: Session = Depends(get_db)):\n        user = db.query(models.User).filter(User.email == user_registration.email).first()\n        if user:\n                raise HTTPException(status = status.HTTP_403_FORBIDDEN , detail=f\"User already registered with email {user_registration.email}\")\n        if not user:\n            hashed_password = utils.hash(user_registration.password)\n            new_user = User(email= user_registration.email, password=hashed_password,university= user_registration.university, course=user_registration.course, semester= user_registration.semester, skills= user_registration.skills)\n            db.add(new_user)\n            db.commit()\n            db.refresh(new_user)",
+        "detail": "app.api.users",
+        "documentation": {}
+    },
+    {
+        "label": "new_user_login",
+        "kind": 2,
+        "importPath": "app.api.users",
+        "description": "app.api.users",
+        "peekOfCode": "def new_user_login(user_credentials:OAuth2PasswordRequestForm = Depends(), db : Session = Depends(get_db)):\n       user = db.query(models.User).filter(models.User.email == user_credentials.username).first()\n       if not user:\n            raise HTTPException(status_code=status.HTTP_403_FORBIDDEN, detail=\"Inavlid credentials\")\n       access_token = oauth2.create_access_token(data={\"user_id\": user.id})\n       return {\"access_token\": access_token, \"token_type\": \"bearer\"}",
+        "detail": "app.api.users",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "kind": 5,
+        "importPath": "app.api.users",
+        "description": "app.api.users",
+        "peekOfCode": "router = APIRouter(\n    prefix=\"/api/v2/users\",\n    tags = [\"Users\"]\n)\n@router.get(\"/register\", status_code=status.HTTP_201_CREATED, response_model= schemas.UserResponse)\ndef new_user_register(user_registration : schemas.UserCreate , db: Session = Depends(get_db)):\n        user = db.query(models.User).filter(User.email == user_registration.email).first()\n        if user:\n                raise HTTPException(status = status.HTTP_403_FORBIDDEN , detail=f\"User already registered with email {user_registration.email}\")\n        if not user:",
+        "detail": "app.api.users",
+        "documentation": {}
+    },
+    {
+        "label": "Settings",
+        "kind": 6,
+        "importPath": "app.config",
+        "description": "app.config",
+        "peekOfCode": "class Settings(BaseSettings):\n    database_hostname: str\n    database_password: str\n    database_name: str\n    database_username: str\n    secret_key: str\n    algorithm: str\n    access_token_expire_minutes: int\n    class Config:\n        env_file = \"app/.env\"",
+        "detail": "app.config",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "kind": 5,
+        "importPath": "app.config",
+        "description": "app.config",
+        "peekOfCode": "settings = Settings()",
+        "detail": "app.config",
+        "documentation": {}
+    },
+    {
+        "label": "get_db",
+        "kind": 2,
+        "importPath": "app.database",
+        "description": "app.database",
+        "peekOfCode": "def get_db():\n    db = SessionLocal()\n    try:\n        yield db\n    finally:\n        db.close()",
+        "detail": "app.database",
+        "documentation": {}
+    },
+    {
+        "label": "SQLALCHEMY_DATABASE_URL",
+        "kind": 5,
+        "importPath": "app.database",
+        "description": "app.database",
+        "peekOfCode": "SQLALCHEMY_DATABASE_URL = f\"postgresql://{settings.database_username}:{settings.database_password}@{settings.database_hostname}/{settings.database_name}\"\nengine = create_engine\nSessionLocal = sessionmaker(autocommit=False, autoflush=False, bind=engine)\nBase = declarative_base()\ndef get_db():\n    db = SessionLocal()\n    try:\n        yield db\n    finally:\n        db.close()",
+        "detail": "app.database",
+        "documentation": {}
+    },
+    {
+        "label": "engine",
+        "kind": 5,
+        "importPath": "app.database",
+        "description": "app.database",
+        "peekOfCode": "engine = create_engine\nSessionLocal = sessionmaker(autocommit=False, autoflush=False, bind=engine)\nBase = declarative_base()\ndef get_db():\n    db = SessionLocal()\n    try:\n        yield db\n    finally:\n        db.close()",
+        "detail": "app.database",
+        "documentation": {}
+    },
+    {
+        "label": "SessionLocal",
+        "kind": 5,
+        "importPath": "app.database",
+        "description": "app.database",
+        "peekOfCode": "SessionLocal = sessionmaker(autocommit=False, autoflush=False, bind=engine)\nBase = declarative_base()\ndef get_db():\n    db = SessionLocal()\n    try:\n        yield db\n    finally:\n        db.close()",
+        "detail": "app.database",
+        "documentation": {}
+    },
+    {
+        "label": "Base",
+        "kind": 5,
+        "importPath": "app.database",
+        "description": "app.database",
+        "peekOfCode": "Base = declarative_base()\ndef get_db():\n    db = SessionLocal()\n    try:\n        yield db\n    finally:\n        db.close()",
+        "detail": "app.database",
+        "documentation": {}
+    },
+    {
+        "label": "read_root",
+        "kind": 2,
+        "importPath": "app.main",
+        "description": "app.main",
+        "peekOfCode": "def read_root():\n    return {\"message\": \"Welcome to the Job Search Platform!\"}",
+        "detail": "app.main",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "kind": 5,
+        "importPath": "app.main",
+        "description": "app.main",
+        "peekOfCode": "app = FastAPI(title=\"StudentJobs\")\napp.include_router(users.router)\n#app.include_router(jobs.router)\n@app.get(\"/\")\ndef read_root():\n    return {\"message\": \"Welcome to the Job Search Platform!\"}",
+        "detail": "app.main",
+        "documentation": {}
+    },
+    {
+        "label": "JobApplication",
+        "kind": 6,
+        "importPath": "app.models",
+        "description": "app.models",
+        "peekOfCode": "class JobApplication(Base):\n    __tablename__ = 'jobs_applied_to'\n    user_id = Column(Integer, ForeignKey('users.id', ondelete=\"CASCADE\"), primary_key=True)\n    job_id = Column(Integer, ForeignKey('jobs.id', ondelete=\"CASCADE\"), primary_key=True)\n    user = relationship(\"User\", back_populates=\"jobs_applied_to\")\n    job = relationship(\"Job\", back_populates=\"applied_users\")\n# Association model for jobs a user is interested in (liked)\nclass JobInterest(Base):\n    __tablename__ = 'jobs_interested_in'\n    user_id = Column(Integer, ForeignKey('users.id', ondelete=\"CASCADE\"), primary_key=True)",
+        "detail": "app.models",
+        "documentation": {}
+    },
+    {
+        "label": "JobInterest",
+        "kind": 6,
+        "importPath": "app.models",
+        "description": "app.models",
+        "peekOfCode": "class JobInterest(Base):\n    __tablename__ = 'jobs_interested_in'\n    user_id = Column(Integer, ForeignKey('users.id', ondelete=\"CASCADE\"), primary_key=True)\n    job_id = Column(Integer, ForeignKey('jobs.id', ondelete=\"CASCADE\"), primary_key=True)\n    user = relationship(\"User\", back_populates=\"jobs_interested_in\")\n    job = relationship(\"Job\", back_populates=\"interested_users\")\n# User model representing the users on the platform\nclass User(Base):\n    __tablename__ = 'users'\n    id = Column(Integer, primary_key=True, index=True)",
+        "detail": "app.models",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "kind": 6,
+        "importPath": "app.models",
+        "description": "app.models",
+        "peekOfCode": "class User(Base):\n    __tablename__ = 'users'\n    id = Column(Integer, primary_key=True, index=True)\n    email = Column(String, unique=True, index=True)\n    password = Column(String, nullable=False)\n    university = Column(String, nullable=False)\n    course = Column(String, nullable=False)\n    semester = Column(String, nullable=False)\n    skills = Column(String, nullable=False)\n    created_at = Column(TIMESTAMP(timezone=True), nullable=False, server_default=text('now()'))",
+        "detail": "app.models",
+        "documentation": {}
+    },
+    {
+        "label": "Job",
+        "kind": 6,
+        "importPath": "app.models",
+        "description": "app.models",
+        "peekOfCode": "class Job(Base):\n    __tablename__ = 'jobs'\n    id = Column(Integer, primary_key=True, index=True)\n    title = Column(String, index=True)\n    job_title = Column(String, nullable=False)\n    company_name = Column(String, nullable=False)\n    user_id = Column(Integer, ForeignKey(\"users.id\", ondelete=\"CASCADE\"), nullable=False)\n    posted_at = Column(TIMESTAMP(timezone=True), nullable=False)\n    # Relationships\n    user = relationship(\"User\", back_populates=\"jobs\")",
+        "detail": "app.models",
+        "documentation": {}
+    },
+    {
+        "label": "Bookmark",
+        "kind": 6,
+        "importPath": "app.models",
+        "description": "app.models",
+        "peekOfCode": "class Bookmark(Base):\n    __tablename__ = \"bookmarks\"\n    id = Column(Integer, primary_key=True, index=True)\n    job_id = Column(Integer, ForeignKey(\"jobs.id\", ondelete=\"CASCADE\"), nullable=False)\n    user_id = Column(Integer, ForeignKey(\"users.id\", ondelete=\"CASCADE\"), nullable=False)\n    # Relationships\n    user = relationship(\"User\", back_populates=\"bookmarks\")\n    job = relationship(\"Job\", back_populates=\"bookmarks\")",
+        "detail": "app.models",
+        "documentation": {}
+    },
+    {
+        "label": "create_access_token",
+        "kind": 2,
+        "importPath": "app.oauth2",
+        "description": "app.oauth2",
+        "peekOfCode": "def create_access_token(data: dict):\n    to_encode = data.copy()\n    expire = datetime.utcnow() + timedelta(minutes=ACCESS_TOKEN_EXPIRE_MINUTES)\n    to_encode.update({\"exp\" : expire})\n    encoded_jwt = jwt.encode( to_encode, SECRET_KEY, algorithms=[ALGORITHM])\n    return encoded_jwt\ndef verify_access_token(token:str, credentials_exception):\n    try:\n        payload = jwt.decode(token, SECRET_KEY, algorithms=[ALGORITHM])\n        id : str = payload.get(\"user_id\")",
+        "detail": "app.oauth2",
+        "documentation": {}
+    },
+    {
+        "label": "verify_access_token",
+        "kind": 2,
+        "importPath": "app.oauth2",
+        "description": "app.oauth2",
+        "peekOfCode": "def verify_access_token(token:str, credentials_exception):\n    try:\n        payload = jwt.decode(token, SECRET_KEY, algorithms=[ALGORITHM])\n        id : str = payload.get(\"user_id\")\n        if id is None:\n            raise credentials_exception\n        token_data = schemas.TokenData(id=id)\n    except JWTError:\n        raise credentials_exception\n    return token_data",
+        "detail": "app.oauth2",
+        "documentation": {}
+    },
+    {
+        "label": "get_current_user",
+        "kind": 2,
+        "importPath": "app.oauth2",
+        "description": "app.oauth2",
+        "peekOfCode": "def get_current_user(token: str = Depends(oauth2_schema), db: Session = Depends(database.get_db)):\n    credentials_exception = HTTPException(status_code=status.HTTP_401_UNAUTHORIZED,\n                                          detail=f\"Could not validate credentials\", headers={\"WWW-Authenticate\": \"Bearer\"})\n    token = verify_access_token(token, credentials_exception)\n    user = db.query(models.User).filter(models.User.id == token.id).first()\n    return user",
+        "detail": "app.oauth2",
+        "documentation": {}
+    },
+    {
+        "label": "oauth2_schema",
+        "kind": 5,
+        "importPath": "app.oauth2",
+        "description": "app.oauth2",
+        "peekOfCode": "oauth2_schema = OAuth2PasswordBearer(tokenUrl='login') \nSECRET_KEY = settings.secret_key\nALGORITHM = settings.algorithm\nACCESS_TOKEN_EXPIRE_MINUTES = settings.access_token_expire_minutes\ndef create_access_token(data: dict):\n    to_encode = data.copy()\n    expire = datetime.utcnow() + timedelta(minutes=ACCESS_TOKEN_EXPIRE_MINUTES)\n    to_encode.update({\"exp\" : expire})\n    encoded_jwt = jwt.encode( to_encode, SECRET_KEY, algorithms=[ALGORITHM])\n    return encoded_jwt",
+        "detail": "app.oauth2",
+        "documentation": {}
+    },
+    {
+        "label": "SECRET_KEY",
+        "kind": 5,
+        "importPath": "app.oauth2",
+        "description": "app.oauth2",
+        "peekOfCode": "SECRET_KEY = settings.secret_key\nALGORITHM = settings.algorithm\nACCESS_TOKEN_EXPIRE_MINUTES = settings.access_token_expire_minutes\ndef create_access_token(data: dict):\n    to_encode = data.copy()\n    expire = datetime.utcnow() + timedelta(minutes=ACCESS_TOKEN_EXPIRE_MINUTES)\n    to_encode.update({\"exp\" : expire})\n    encoded_jwt = jwt.encode( to_encode, SECRET_KEY, algorithms=[ALGORITHM])\n    return encoded_jwt\ndef verify_access_token(token:str, credentials_exception):",
+        "detail": "app.oauth2",
+        "documentation": {}
+    },
+    {
+        "label": "ALGORITHM",
+        "kind": 5,
+        "importPath": "app.oauth2",
+        "description": "app.oauth2",
+        "peekOfCode": "ALGORITHM = settings.algorithm\nACCESS_TOKEN_EXPIRE_MINUTES = settings.access_token_expire_minutes\ndef create_access_token(data: dict):\n    to_encode = data.copy()\n    expire = datetime.utcnow() + timedelta(minutes=ACCESS_TOKEN_EXPIRE_MINUTES)\n    to_encode.update({\"exp\" : expire})\n    encoded_jwt = jwt.encode( to_encode, SECRET_KEY, algorithms=[ALGORITHM])\n    return encoded_jwt\ndef verify_access_token(token:str, credentials_exception):\n    try:",
+        "detail": "app.oauth2",
+        "documentation": {}
+    },
+    {
+        "label": "ACCESS_TOKEN_EXPIRE_MINUTES",
+        "kind": 5,
+        "importPath": "app.oauth2",
+        "description": "app.oauth2",
+        "peekOfCode": "ACCESS_TOKEN_EXPIRE_MINUTES = settings.access_token_expire_minutes\ndef create_access_token(data: dict):\n    to_encode = data.copy()\n    expire = datetime.utcnow() + timedelta(minutes=ACCESS_TOKEN_EXPIRE_MINUTES)\n    to_encode.update({\"exp\" : expire})\n    encoded_jwt = jwt.encode( to_encode, SECRET_KEY, algorithms=[ALGORITHM])\n    return encoded_jwt\ndef verify_access_token(token:str, credentials_exception):\n    try:\n        payload = jwt.decode(token, SECRET_KEY, algorithms=[ALGORITHM])",
+        "detail": "app.oauth2",
+        "documentation": {}
+    },
+    {
+        "label": "UserBase",
+        "kind": 6,
+        "importPath": "app.schemas",
+        "description": "app.schemas",
+        "peekOfCode": "class UserBase(BaseModel):\n    email: EmailStr\n    university: str\n    course: str\n    semester: str\n    skills: str\n# Model for creating a new user (e.g., during registration)\nclass UserCreate(UserBase):\n    password: str\n# Response model for reading user data",
+        "detail": "app.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "UserCreate",
+        "kind": 6,
+        "importPath": "app.schemas",
+        "description": "app.schemas",
+        "peekOfCode": "class UserCreate(UserBase):\n    password: str\n# Response model for reading user data\nclass UserResponse(UserBase):\n    id: int\n    created_at: datetime\n    jobs_applied_to: Optional[List[\"JobResponse\"]] = []  # Changed to JobResponse to match the job data\n    jobs_interested_in: Optional[List[\"JobResponse\"]] = []  # Changed to JobResponse to match the job data\n    class Config:\n        orm_mode = True",
+        "detail": "app.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "UserResponse",
+        "kind": 6,
+        "importPath": "app.schemas",
+        "description": "app.schemas",
+        "peekOfCode": "class UserResponse(UserBase):\n    id: int\n    created_at: datetime\n    jobs_applied_to: Optional[List[\"JobResponse\"]] = []  # Changed to JobResponse to match the job data\n    jobs_interested_in: Optional[List[\"JobResponse\"]] = []  # Changed to JobResponse to match the job data\n    class Config:\n        orm_mode = True\n# Shared base model for Job\nclass JobBase(BaseModel):\n    title: str",
+        "detail": "app.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "JobBase",
+        "kind": 6,
+        "importPath": "app.schemas",
+        "description": "app.schemas",
+        "peekOfCode": "class JobBase(BaseModel):\n    title: str\n    description: str\n    company_name: str\n# Model for creating a new job\nclass JobCreate(JobBase):\n    pass\n# Response model for reading job data\nclass JobResponse(JobBase):\n    id: int",
+        "detail": "app.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "JobCreate",
+        "kind": 6,
+        "importPath": "app.schemas",
+        "description": "app.schemas",
+        "peekOfCode": "class JobCreate(JobBase):\n    pass\n# Response model for reading job data\nclass JobResponse(JobBase):\n    id: int\n    user_id: int\n    posted_at: datetime\n    bookmarks: Optional[List[\"BookmarkResponse\"]] = []  # Changed to BookmarkResponse for consistency\n    class Config:\n        orm_mode = True",
+        "detail": "app.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "JobResponse",
+        "kind": 6,
+        "importPath": "app.schemas",
+        "description": "app.schemas",
+        "peekOfCode": "class JobResponse(JobBase):\n    id: int\n    user_id: int\n    posted_at: datetime\n    bookmarks: Optional[List[\"BookmarkResponse\"]] = []  # Changed to BookmarkResponse for consistency\n    class Config:\n        orm_mode = True\n# Shared base model for Bookmark\nclass BookmarkBase(BaseModel):\n    pass",
+        "detail": "app.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "BookmarkBase",
+        "kind": 6,
+        "importPath": "app.schemas",
+        "description": "app.schemas",
+        "peekOfCode": "class BookmarkBase(BaseModel):\n    pass\n# Model for creating a new bookmark\nclass BookmarkCreate(BookmarkBase):\n    job_id: int\n    user_id: int\n# Response model for reading bookmark data\nclass BookmarkResponse(BookmarkBase):\n    id: int\n    job_id: int",
+        "detail": "app.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "BookmarkCreate",
+        "kind": 6,
+        "importPath": "app.schemas",
+        "description": "app.schemas",
+        "peekOfCode": "class BookmarkCreate(BookmarkBase):\n    job_id: int\n    user_id: int\n# Response model for reading bookmark data\nclass BookmarkResponse(BookmarkBase):\n    id: int\n    job_id: int\n    user_id: int\n    class Config:\n        orm_mode = True",
+        "detail": "app.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "BookmarkResponse",
+        "kind": 6,
+        "importPath": "app.schemas",
+        "description": "app.schemas",
+        "peekOfCode": "class BookmarkResponse(BookmarkBase):\n    id: int\n    job_id: int\n    user_id: int\n    class Config:\n        orm_mode = True\n# Define Job Application Response\nclass JobsAppliedTo(BaseModel):\n    job_id: int\n    user_id: int",
+        "detail": "app.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "JobsAppliedTo",
+        "kind": 6,
+        "importPath": "app.schemas",
+        "description": "app.schemas",
+        "peekOfCode": "class JobsAppliedTo(BaseModel):\n    job_id: int\n    user_id: int\n    class Config:\n        orm_mode = True\n# Define Job Interest Response (Liked Jobs)\nclass JobsInterestedIn(BaseModel):\n    job_id: int\n    user_id: int\n    class Config:",
+        "detail": "app.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "JobsInterestedIn",
+        "kind": 6,
+        "importPath": "app.schemas",
+        "description": "app.schemas",
+        "peekOfCode": "class JobsInterestedIn(BaseModel):\n    job_id: int\n    user_id: int\n    class Config:\n        orm_mode = True\nclass Token(BaseModel):\n    access_token: str\n    token_type: str\nclass TokenData(BaseModel):\n    id: Optional[str] = None",
+        "detail": "app.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "Token",
+        "kind": 6,
+        "importPath": "app.schemas",
+        "description": "app.schemas",
+        "peekOfCode": "class Token(BaseModel):\n    access_token: str\n    token_type: str\nclass TokenData(BaseModel):\n    id: Optional[str] = None\n    class Config:\n        orm_mode = True",
+        "detail": "app.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "TokenData",
+        "kind": 6,
+        "importPath": "app.schemas",
+        "description": "app.schemas",
+        "peekOfCode": "class TokenData(BaseModel):\n    id: Optional[str] = None\n    class Config:\n        orm_mode = True",
+        "detail": "app.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "scrape_jobs",
+        "kind": 2,
+        "importPath": "app.services",
+        "description": "app.services",
+        "peekOfCode": "def scrape_jobs(work_position: str, location: str):\n    # Get the base URL from environment variables\n    url = os.getenv('url')\n    # Ensure the URL is valid\n    if not url:\n        print(\"Base URL not found in environment variables.\")\n        return\n    # Modify the URL with the work position and location\n    modified_url = f\"{url}?keywords={work_position}&location={location}\"\n    # Set up the Firefox browser options",
+        "detail": "app.services",
+        "documentation": {}
+    },
+    {
+        "label": "hash",
+        "kind": 2,
+        "importPath": "app.utils",
+        "description": "app.utils",
+        "peekOfCode": "def hash(password:str): # to hash the given password and store in the the database\n   return pwd_context.hash(password)\ndef verify_password(plain_password, hashed_password): # to verify the password in the database to verify the login\n   return pwd_context.verify(plain_password, hashed_password)\ndef convert_time_to_seconds(time_str):\n   units = {\"day\": 86400, \"hour\": 3600, \"days\": 86400, \"hours\": 3600}\n   value,unit = time_str.split()\n   return f\"r{int(value) * units[unit]}\"",
+        "detail": "app.utils",
+        "documentation": {}
+    },
+    {
+        "label": "verify_password",
+        "kind": 2,
+        "importPath": "app.utils",
+        "description": "app.utils",
+        "peekOfCode": "def verify_password(plain_password, hashed_password): # to verify the password in the database to verify the login\n   return pwd_context.verify(plain_password, hashed_password)\ndef convert_time_to_seconds(time_str):\n   units = {\"day\": 86400, \"hour\": 3600, \"days\": 86400, \"hours\": 3600}\n   value,unit = time_str.split()\n   return f\"r{int(value) * units[unit]}\"",
+        "detail": "app.utils",
+        "documentation": {}
+    },
+    {
+        "label": "convert_time_to_seconds",
+        "kind": 2,
+        "importPath": "app.utils",
+        "description": "app.utils",
+        "peekOfCode": "def convert_time_to_seconds(time_str):\n   units = {\"day\": 86400, \"hour\": 3600, \"days\": 86400, \"hours\": 3600}\n   value,unit = time_str.split()\n   return f\"r{int(value) * units[unit]}\"",
+        "detail": "app.utils",
+        "documentation": {}
+    },
+    {
+        "label": "pwd_context",
+        "kind": 5,
+        "importPath": "app.utils",
+        "description": "app.utils",
+        "peekOfCode": "pwd_context = CryptContext(schemes=['bcrypt'], deprecated=\"auto\")\ndef hash(password:str): # to hash the given password and store in the the database\n   return pwd_context.hash(password)\ndef verify_password(plain_password, hashed_password): # to verify the password in the database to verify the login\n   return pwd_context.verify(plain_password, hashed_password)\ndef convert_time_to_seconds(time_str):\n   units = {\"day\": 86400, \"hour\": 3600, \"days\": 86400, \"hours\": 3600}\n   value,unit = time_str.split()\n   return f\"r{int(value) * units[unit]}\"",
+        "detail": "app.utils",
+        "documentation": {}
+    },
+    {
+        "label": "new_user_register",
+        "kind": 2,
+        "importPath": "StudentJobs.app.api.users",
+        "description": "StudentJobs.app.api.users",
+        "peekOfCode": "def new_user_register(user_registration : schemas.UserCreate , db: Session = Depends(get_db)):\n        user = db.query(models.User).filter(User.email == user_registration.email).first()\n        if user:\n                raise HTTPException(status = status.HTTP_403_FORBIDDEN , detail=f\"User already registered with email {user_registration.email}\")\n        if not user:\n            hashed_password = utils.hash(user_registration.password)\n            new_user = User(email= user_registration.email, password=hashed_password,university= user_registration.university, course=user_registration.course, semester= user_registration.semester, skills= user_registration.skills)\n            db.add(new_user)\n            db.commit()\n            db.refresh(new_user)",
+        "detail": "StudentJobs.app.api.users",
+        "documentation": {}
+    },
+    {
+        "label": "new_user_login",
+        "kind": 2,
+        "importPath": "StudentJobs.app.api.users",
+        "description": "StudentJobs.app.api.users",
+        "peekOfCode": "def new_user_login(user_credentials:OAuth2PasswordRequestForm = Depends(), db : Session = Depends(get_db)):\n       user = db.query(models.User).filter(models.User.email == user_credentials.username).first()\n       if not user:\n            raise HTTPException(status_code=status.HTTP_403_FORBIDDEN, detail=\"Inavlid credentials\")\n       access_token = oauth2.create_access_token(data={\"user_id\": user.id})\n       return {\"access_token\": access_token, \"token_type\": \"bearer\"}",
+        "detail": "StudentJobs.app.api.users",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "kind": 5,
+        "importPath": "StudentJobs.app.api.users",
+        "description": "StudentJobs.app.api.users",
+        "peekOfCode": "router = APIRouter(\n    prefix=\"/api/v2/users\",\n    tags = [\"Users\"]\n)\n@router.get(\"/register\", status_code=status.HTTP_201_CREATED, response_model= schemas.UserResponse)\ndef new_user_register(user_registration : schemas.UserCreate , db: Session = Depends(get_db)):\n        user = db.query(models.User).filter(User.email == user_registration.email).first()\n        if user:\n                raise HTTPException(status = status.HTTP_403_FORBIDDEN , detail=f\"User already registered with email {user_registration.email}\")\n        if not user:",
+        "detail": "StudentJobs.app.api.users",
+        "documentation": {}
+    },
+    {
+        "label": "Settings",
+        "kind": 6,
+        "importPath": "StudentJobs.app.config",
+        "description": "StudentJobs.app.config",
+        "peekOfCode": "class Settings(BaseSettings):\n    database_hostname: str\n    database_password: str\n    database_name: str\n    database_username: str\n    secret_key: str\n    algorithm: str\n    access_token_expire_minutes: int\n    class Config:\n        env_file = \"app/.env\"",
+        "detail": "StudentJobs.app.config",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "kind": 5,
+        "importPath": "StudentJobs.app.config",
+        "description": "StudentJobs.app.config",
+        "peekOfCode": "settings = Settings()",
+        "detail": "StudentJobs.app.config",
+        "documentation": {}
+    },
+    {
+        "label": "get_db",
+        "kind": 2,
+        "importPath": "StudentJobs.app.database",
+        "description": "StudentJobs.app.database",
+        "peekOfCode": "def get_db():\n    db = SessionLocal()\n    try:\n        yield db\n    finally:\n        db.close()",
+        "detail": "StudentJobs.app.database",
+        "documentation": {}
+    },
+    {
+        "label": "SQLALCHEMY_DATABASE_URL",
+        "kind": 5,
+        "importPath": "StudentJobs.app.database",
+        "description": "StudentJobs.app.database",
+        "peekOfCode": "SQLALCHEMY_DATABASE_URL = f\"postgresql://{settings.database_username}:{settings.database_password}@{settings.database_hostname}/{settings.database_name}\"\nengine = create_engine\nSessionLocal = sessionmaker(autocommit=False, autoflush=False, bind=engine)\nBase = declarative_base()\ndef get_db():\n    db = SessionLocal()\n    try:\n        yield db\n    finally:\n        db.close()",
+        "detail": "StudentJobs.app.database",
+        "documentation": {}
+    },
+    {
+        "label": "engine",
+        "kind": 5,
+        "importPath": "StudentJobs.app.database",
+        "description": "StudentJobs.app.database",
+        "peekOfCode": "engine = create_engine\nSessionLocal = sessionmaker(autocommit=False, autoflush=False, bind=engine)\nBase = declarative_base()\ndef get_db():\n    db = SessionLocal()\n    try:\n        yield db\n    finally:\n        db.close()",
+        "detail": "StudentJobs.app.database",
+        "documentation": {}
+    },
+    {
+        "label": "SessionLocal",
+        "kind": 5,
+        "importPath": "StudentJobs.app.database",
+        "description": "StudentJobs.app.database",
+        "peekOfCode": "SessionLocal = sessionmaker(autocommit=False, autoflush=False, bind=engine)\nBase = declarative_base()\ndef get_db():\n    db = SessionLocal()\n    try:\n        yield db\n    finally:\n        db.close()",
+        "detail": "StudentJobs.app.database",
+        "documentation": {}
+    },
+    {
+        "label": "Base",
+        "kind": 5,
+        "importPath": "StudentJobs.app.database",
+        "description": "StudentJobs.app.database",
+        "peekOfCode": "Base = declarative_base()\ndef get_db():\n    db = SessionLocal()\n    try:\n        yield db\n    finally:\n        db.close()",
+        "detail": "StudentJobs.app.database",
+        "documentation": {}
+    },
+    {
+        "label": "read_root",
+        "kind": 2,
+        "importPath": "StudentJobs.app.main",
+        "description": "StudentJobs.app.main",
+        "peekOfCode": "def read_root():\n    return {\"message\": \"Welcome to the Job Search Platform!\"}",
+        "detail": "StudentJobs.app.main",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "kind": 5,
+        "importPath": "StudentJobs.app.main",
+        "description": "StudentJobs.app.main",
+        "peekOfCode": "app = FastAPI(title=\"StudentJobs\")\napp.include_router(users.router)\n#app.include_router(jobs.router)\n@app.get(\"/\")\ndef read_root():\n    return {\"message\": \"Welcome to the Job Search Platform!\"}",
+        "detail": "StudentJobs.app.main",
+        "documentation": {}
+    },
+    {
+        "label": "JobApplication",
+        "kind": 6,
+        "importPath": "StudentJobs.app.models",
+        "description": "StudentJobs.app.models",
+        "peekOfCode": "class JobApplication(Base):\n    __tablename__ = 'jobs_applied_to'\n    user_id = Column(Integer, ForeignKey('users.id', ondelete=\"CASCADE\"), primary_key=True)\n    job_id = Column(Integer, ForeignKey('jobs.id', ondelete=\"CASCADE\"), primary_key=True)\n    user = relationship(\"User\", back_populates=\"jobs_applied_to\")\n    job = relationship(\"Job\", back_populates=\"applied_users\")\n# Association model for jobs a user is interested in (liked)\nclass JobInterest(Base):\n    __tablename__ = 'jobs_interested_in'\n    user_id = Column(Integer, ForeignKey('users.id', ondelete=\"CASCADE\"), primary_key=True)",
+        "detail": "StudentJobs.app.models",
+        "documentation": {}
+    },
+    {
+        "label": "JobInterest",
+        "kind": 6,
+        "importPath": "StudentJobs.app.models",
+        "description": "StudentJobs.app.models",
+        "peekOfCode": "class JobInterest(Base):\n    __tablename__ = 'jobs_interested_in'\n    user_id = Column(Integer, ForeignKey('users.id', ondelete=\"CASCADE\"), primary_key=True)\n    job_id = Column(Integer, ForeignKey('jobs.id', ondelete=\"CASCADE\"), primary_key=True)\n    user = relationship(\"User\", back_populates=\"jobs_interested_in\")\n    job = relationship(\"Job\", back_populates=\"interested_users\")\n# User model representing the users on the platform\nclass User(Base):\n    __tablename__ = 'users'\n    id = Column(Integer, primary_key=True, index=True)",
+        "detail": "StudentJobs.app.models",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "kind": 6,
+        "importPath": "StudentJobs.app.models",
+        "description": "StudentJobs.app.models",
+        "peekOfCode": "class User(Base):\n    __tablename__ = 'users'\n    id = Column(Integer, primary_key=True, index=True)\n    email = Column(String, unique=True, index=True)\n    password = Column(String, nullable=False)\n    university = Column(String, nullable=False)\n    course = Column(String, nullable=False)\n    semester = Column(String, nullable=False)\n    skills = Column(String, nullable=False)\n    created_at = Column(TIMESTAMP(timezone=True), nullable=False, server_default=text('now()'))",
+        "detail": "StudentJobs.app.models",
+        "documentation": {}
+    },
+    {
+        "label": "Job",
+        "kind": 6,
+        "importPath": "StudentJobs.app.models",
+        "description": "StudentJobs.app.models",
+        "peekOfCode": "class Job(Base):\n    __tablename__ = 'jobs'\n    id = Column(Integer, primary_key=True, index=True)\n    title = Column(String, index=True)\n    job_title = Column(String, nullable=False)\n    company_name = Column(String, nullable=False)\n    user_id = Column(Integer, ForeignKey(\"users.id\", ondelete=\"CASCADE\"), nullable=False)\n    posted_at = Column(TIMESTAMP(timezone=True), nullable=False)\n    # Relationships\n    user = relationship(\"User\", back_populates=\"jobs\")",
+        "detail": "StudentJobs.app.models",
+        "documentation": {}
+    },
+    {
+        "label": "Bookmark",
+        "kind": 6,
+        "importPath": "StudentJobs.app.models",
+        "description": "StudentJobs.app.models",
+        "peekOfCode": "class Bookmark(Base):\n    __tablename__ = \"bookmarks\"\n    id = Column(Integer, primary_key=True, index=True)\n    job_id = Column(Integer, ForeignKey(\"jobs.id\", ondelete=\"CASCADE\"), nullable=False)\n    user_id = Column(Integer, ForeignKey(\"users.id\", ondelete=\"CASCADE\"), nullable=False)\n    # Relationships\n    user = relationship(\"User\", back_populates=\"bookmarks\")\n    job = relationship(\"Job\", back_populates=\"bookmarks\")",
+        "detail": "StudentJobs.app.models",
+        "documentation": {}
+    },
+    {
+        "label": "create_access_token",
+        "kind": 2,
+        "importPath": "StudentJobs.app.oauth2",
+        "description": "StudentJobs.app.oauth2",
+        "peekOfCode": "def create_access_token(data: dict):\n    to_encode = data.copy()\n    expire = datetime.utcnow() + timedelta(minutes=ACCESS_TOKEN_EXPIRE_MINUTES)\n    to_encode.update({\"exp\" : expire})\n    encoded_jwt = jwt.encode( to_encode, SECRET_KEY, algorithms=[ALGORITHM])\n    return encoded_jwt\ndef verify_access_token(token:str, credentials_exception):\n    try:\n        payload = jwt.decode(token, SECRET_KEY, algorithms=[ALGORITHM])\n        id : str = payload.get(\"user_id\")",
+        "detail": "StudentJobs.app.oauth2",
+        "documentation": {}
+    },
+    {
+        "label": "verify_access_token",
+        "kind": 2,
+        "importPath": "StudentJobs.app.oauth2",
+        "description": "StudentJobs.app.oauth2",
+        "peekOfCode": "def verify_access_token(token:str, credentials_exception):\n    try:\n        payload = jwt.decode(token, SECRET_KEY, algorithms=[ALGORITHM])\n        id : str = payload.get(\"user_id\")\n        if id is None:\n            raise credentials_exception\n        token_data = schemas.TokenData(id=id)\n    except JWTError:\n        raise credentials_exception\n    return token_data",
+        "detail": "StudentJobs.app.oauth2",
+        "documentation": {}
+    },
+    {
+        "label": "get_current_user",
+        "kind": 2,
+        "importPath": "StudentJobs.app.oauth2",
+        "description": "StudentJobs.app.oauth2",
+        "peekOfCode": "def get_current_user(token: str = Depends(oauth2_schema), db: Session = Depends(database.get_db)):\n    credentials_exception = HTTPException(status_code=status.HTTP_401_UNAUTHORIZED,\n                                          detail=f\"Could not validate credentials\", headers={\"WWW-Authenticate\": \"Bearer\"})\n    token = verify_access_token(token, credentials_exception)\n    user = db.query(models.User).filter(models.User.id == token.id).first()\n    return user",
+        "detail": "StudentJobs.app.oauth2",
+        "documentation": {}
+    },
+    {
+        "label": "oauth2_schema",
+        "kind": 5,
+        "importPath": "StudentJobs.app.oauth2",
+        "description": "StudentJobs.app.oauth2",
+        "peekOfCode": "oauth2_schema = OAuth2PasswordBearer(tokenUrl='login') \nSECRET_KEY = settings.secret_key\nALGORITHM = settings.algorithm\nACCESS_TOKEN_EXPIRE_MINUTES = settings.access_token_expire_minutes\ndef create_access_token(data: dict):\n    to_encode = data.copy()\n    expire = datetime.utcnow() + timedelta(minutes=ACCESS_TOKEN_EXPIRE_MINUTES)\n    to_encode.update({\"exp\" : expire})\n    encoded_jwt = jwt.encode( to_encode, SECRET_KEY, algorithms=[ALGORITHM])\n    return encoded_jwt",
+        "detail": "StudentJobs.app.oauth2",
+        "documentation": {}
+    },
+    {
+        "label": "SECRET_KEY",
+        "kind": 5,
+        "importPath": "StudentJobs.app.oauth2",
+        "description": "StudentJobs.app.oauth2",
+        "peekOfCode": "SECRET_KEY = settings.secret_key\nALGORITHM = settings.algorithm\nACCESS_TOKEN_EXPIRE_MINUTES = settings.access_token_expire_minutes\ndef create_access_token(data: dict):\n    to_encode = data.copy()\n    expire = datetime.utcnow() + timedelta(minutes=ACCESS_TOKEN_EXPIRE_MINUTES)\n    to_encode.update({\"exp\" : expire})\n    encoded_jwt = jwt.encode( to_encode, SECRET_KEY, algorithms=[ALGORITHM])\n    return encoded_jwt\ndef verify_access_token(token:str, credentials_exception):",
+        "detail": "StudentJobs.app.oauth2",
+        "documentation": {}
+    },
+    {
+        "label": "ALGORITHM",
+        "kind": 5,
+        "importPath": "StudentJobs.app.oauth2",
+        "description": "StudentJobs.app.oauth2",
+        "peekOfCode": "ALGORITHM = settings.algorithm\nACCESS_TOKEN_EXPIRE_MINUTES = settings.access_token_expire_minutes\ndef create_access_token(data: dict):\n    to_encode = data.copy()\n    expire = datetime.utcnow() + timedelta(minutes=ACCESS_TOKEN_EXPIRE_MINUTES)\n    to_encode.update({\"exp\" : expire})\n    encoded_jwt = jwt.encode( to_encode, SECRET_KEY, algorithms=[ALGORITHM])\n    return encoded_jwt\ndef verify_access_token(token:str, credentials_exception):\n    try:",
+        "detail": "StudentJobs.app.oauth2",
+        "documentation": {}
+    },
+    {
+        "label": "ACCESS_TOKEN_EXPIRE_MINUTES",
+        "kind": 5,
+        "importPath": "StudentJobs.app.oauth2",
+        "description": "StudentJobs.app.oauth2",
+        "peekOfCode": "ACCESS_TOKEN_EXPIRE_MINUTES = settings.access_token_expire_minutes\ndef create_access_token(data: dict):\n    to_encode = data.copy()\n    expire = datetime.utcnow() + timedelta(minutes=ACCESS_TOKEN_EXPIRE_MINUTES)\n    to_encode.update({\"exp\" : expire})\n    encoded_jwt = jwt.encode( to_encode, SECRET_KEY, algorithms=[ALGORITHM])\n    return encoded_jwt\ndef verify_access_token(token:str, credentials_exception):\n    try:\n        payload = jwt.decode(token, SECRET_KEY, algorithms=[ALGORITHM])",
+        "detail": "StudentJobs.app.oauth2",
+        "documentation": {}
+    },
+    {
+        "label": "UserBase",
+        "kind": 6,
+        "importPath": "StudentJobs.app.schemas",
+        "description": "StudentJobs.app.schemas",
+        "peekOfCode": "class UserBase(BaseModel):\n    email: EmailStr\n    university: str\n    course: str\n    semester: str\n    skills: str\n# Model for creating a new user (e.g., during registration)\nclass UserCreate(UserBase):\n    password: str\n# Response model for reading user data",
+        "detail": "StudentJobs.app.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "UserCreate",
+        "kind": 6,
+        "importPath": "StudentJobs.app.schemas",
+        "description": "StudentJobs.app.schemas",
+        "peekOfCode": "class UserCreate(UserBase):\n    password: str\n# Response model for reading user data\nclass UserResponse(UserBase):\n    id: int\n    created_at: datetime\n    jobs_applied_to: Optional[List[\"JobResponse\"]] = []  # Changed to JobResponse to match the job data\n    jobs_interested_in: Optional[List[\"JobResponse\"]] = []  # Changed to JobResponse to match the job data\n    class Config:\n        orm_mode = True",
+        "detail": "StudentJobs.app.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "UserResponse",
+        "kind": 6,
+        "importPath": "StudentJobs.app.schemas",
+        "description": "StudentJobs.app.schemas",
+        "peekOfCode": "class UserResponse(UserBase):\n    id: int\n    created_at: datetime\n    jobs_applied_to: Optional[List[\"JobResponse\"]] = []  # Changed to JobResponse to match the job data\n    jobs_interested_in: Optional[List[\"JobResponse\"]] = []  # Changed to JobResponse to match the job data\n    class Config:\n        orm_mode = True\n# Shared base model for Job\nclass JobBase(BaseModel):\n    title: str",
+        "detail": "StudentJobs.app.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "JobBase",
+        "kind": 6,
+        "importPath": "StudentJobs.app.schemas",
+        "description": "StudentJobs.app.schemas",
+        "peekOfCode": "class JobBase(BaseModel):\n    title: str\n    description: str\n    company_name: str\n# Model for creating a new job\nclass JobCreate(JobBase):\n    pass\n# Response model for reading job data\nclass JobResponse(JobBase):\n    id: int",
+        "detail": "StudentJobs.app.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "JobCreate",
+        "kind": 6,
+        "importPath": "StudentJobs.app.schemas",
+        "description": "StudentJobs.app.schemas",
+        "peekOfCode": "class JobCreate(JobBase):\n    pass\n# Response model for reading job data\nclass JobResponse(JobBase):\n    id: int\n    user_id: int\n    posted_at: datetime\n    bookmarks: Optional[List[\"BookmarkResponse\"]] = []  # Changed to BookmarkResponse for consistency\n    class Config:\n        orm_mode = True",
+        "detail": "StudentJobs.app.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "JobResponse",
+        "kind": 6,
+        "importPath": "StudentJobs.app.schemas",
+        "description": "StudentJobs.app.schemas",
+        "peekOfCode": "class JobResponse(JobBase):\n    id: int\n    user_id: int\n    posted_at: datetime\n    bookmarks: Optional[List[\"BookmarkResponse\"]] = []  # Changed to BookmarkResponse for consistency\n    class Config:\n        orm_mode = True\n# Shared base model for Bookmark\nclass BookmarkBase(BaseModel):\n    pass",
+        "detail": "StudentJobs.app.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "BookmarkBase",
+        "kind": 6,
+        "importPath": "StudentJobs.app.schemas",
+        "description": "StudentJobs.app.schemas",
+        "peekOfCode": "class BookmarkBase(BaseModel):\n    pass\n# Model for creating a new bookmark\nclass BookmarkCreate(BookmarkBase):\n    job_id: int\n    user_id: int\n# Response model for reading bookmark data\nclass BookmarkResponse(BookmarkBase):\n    id: int\n    job_id: int",
+        "detail": "StudentJobs.app.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "BookmarkCreate",
+        "kind": 6,
+        "importPath": "StudentJobs.app.schemas",
+        "description": "StudentJobs.app.schemas",
+        "peekOfCode": "class BookmarkCreate(BookmarkBase):\n    job_id: int\n    user_id: int\n# Response model for reading bookmark data\nclass BookmarkResponse(BookmarkBase):\n    id: int\n    job_id: int\n    user_id: int\n    class Config:\n        orm_mode = True",
+        "detail": "StudentJobs.app.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "BookmarkResponse",
+        "kind": 6,
+        "importPath": "StudentJobs.app.schemas",
+        "description": "StudentJobs.app.schemas",
+        "peekOfCode": "class BookmarkResponse(BookmarkBase):\n    id: int\n    job_id: int\n    user_id: int\n    class Config:\n        orm_mode = True\n# Define Job Application Response\nclass JobsAppliedTo(BaseModel):\n    job_id: int\n    user_id: int",
+        "detail": "StudentJobs.app.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "JobsAppliedTo",
+        "kind": 6,
+        "importPath": "StudentJobs.app.schemas",
+        "description": "StudentJobs.app.schemas",
+        "peekOfCode": "class JobsAppliedTo(BaseModel):\n    job_id: int\n    user_id: int\n    class Config:\n        orm_mode = True\n# Define Job Interest Response (Liked Jobs)\nclass JobsInterestedIn(BaseModel):\n    job_id: int\n    user_id: int\n    class Config:",
+        "detail": "StudentJobs.app.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "JobsInterestedIn",
+        "kind": 6,
+        "importPath": "StudentJobs.app.schemas",
+        "description": "StudentJobs.app.schemas",
+        "peekOfCode": "class JobsInterestedIn(BaseModel):\n    job_id: int\n    user_id: int\n    class Config:\n        orm_mode = True\nclass Token(BaseModel):\n    access_token: str\n    token_type: str\nclass TokenData(BaseModel):\n    id: Optional[str] = None",
+        "detail": "StudentJobs.app.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "Token",
+        "kind": 6,
+        "importPath": "StudentJobs.app.schemas",
+        "description": "StudentJobs.app.schemas",
+        "peekOfCode": "class Token(BaseModel):\n    access_token: str\n    token_type: str\nclass TokenData(BaseModel):\n    id: Optional[str] = None\n    class Config:\n        orm_mode = True",
+        "detail": "StudentJobs.app.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "TokenData",
+        "kind": 6,
+        "importPath": "StudentJobs.app.schemas",
+        "description": "StudentJobs.app.schemas",
+        "peekOfCode": "class TokenData(BaseModel):\n    id: Optional[str] = None\n    class Config:\n        orm_mode = True",
+        "detail": "StudentJobs.app.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "scrape_jobs",
+        "kind": 2,
+        "importPath": "StudentJobs.app.services",
+        "description": "StudentJobs.app.services",
+        "peekOfCode": "def scrape_jobs(work_position: str, location: str):\n    # Get the base URL from environment variables\n    url = os.getenv('url')\n    # Ensure the URL is valid\n    if not url:\n        print(\"Base URL not found in environment variables.\")\n        return\n    # Modify the URL with the work position and location\n    modified_url = f\"{url}?keywords={work_position}&location={location}\"\n    # Set up the Firefox browser options",
+        "detail": "StudentJobs.app.services",
+        "documentation": {}
+    },
+    {
+        "label": "hash",
+        "kind": 2,
+        "importPath": "StudentJobs.app.utils",
+        "description": "StudentJobs.app.utils",
+        "peekOfCode": "def hash(password:str): # to hash the given password and store in the the database\n   return pwd_context.hash(password)\ndef verify_password(plain_password, hashed_password): # to verify the password in the database to verify the login\n   return pwd_context.verify(plain_password, hashed_password)\ndef convert_time_to_seconds(time_str):\n   units = {\"day\": 86400, \"hour\": 3600, \"days\": 86400, \"hours\": 3600}\n   value,unit = time_str.split()\n   return f\"r{int(value) * units[unit]}\"",
+        "detail": "StudentJobs.app.utils",
+        "documentation": {}
+    },
+    {
+        "label": "verify_password",
+        "kind": 2,
+        "importPath": "StudentJobs.app.utils",
+        "description": "StudentJobs.app.utils",
+        "peekOfCode": "def verify_password(plain_password, hashed_password): # to verify the password in the database to verify the login\n   return pwd_context.verify(plain_password, hashed_password)\ndef convert_time_to_seconds(time_str):\n   units = {\"day\": 86400, \"hour\": 3600, \"days\": 86400, \"hours\": 3600}\n   value,unit = time_str.split()\n   return f\"r{int(value) * units[unit]}\"",
+        "detail": "StudentJobs.app.utils",
+        "documentation": {}
+    },
+    {
+        "label": "convert_time_to_seconds",
+        "kind": 2,
+        "importPath": "StudentJobs.app.utils",
+        "description": "StudentJobs.app.utils",
+        "peekOfCode": "def convert_time_to_seconds(time_str):\n   units = {\"day\": 86400, \"hour\": 3600, \"days\": 86400, \"hours\": 3600}\n   value,unit = time_str.split()\n   return f\"r{int(value) * units[unit]}\"",
+        "detail": "StudentJobs.app.utils",
+        "documentation": {}
+    },
+    {
+        "label": "pwd_context",
+        "kind": 5,
+        "importPath": "StudentJobs.app.utils",
+        "description": "StudentJobs.app.utils",
+        "peekOfCode": "pwd_context = CryptContext(schemes=['bcrypt'], deprecated=\"auto\")\ndef hash(password:str): # to hash the given password and store in the the database\n   return pwd_context.hash(password)\ndef verify_password(plain_password, hashed_password): # to verify the password in the database to verify the login\n   return pwd_context.verify(plain_password, hashed_password)\ndef convert_time_to_seconds(time_str):\n   units = {\"day\": 86400, \"hour\": 3600, \"days\": 86400, \"hours\": 3600}\n   value,unit = time_str.split()\n   return f\"r{int(value) * units[unit]}\"",
+        "detail": "StudentJobs.app.utils",
+        "documentation": {}
+    },
+    {
+        "label": "new_user_register",
+        "kind": 2,
+        "importPath": "StudentJobs.StudentJobs.app.api.users",
+        "description": "StudentJobs.StudentJobs.app.api.users",
+        "peekOfCode": "def new_user_register(user_registration : schemas.UserCreate , db: Session = Depends(get_db)):\n        user = db.query(models.User).filter(User.email == user_registration.email).first()\n        if user:\n                raise HTTPException(status = status.HTTP_403_FORBIDDEN , detail=f\"User already registered with email {user_registration.email}\")\n        if not user:\n            hashed_password = utils.hash(user_registration.password)\n            new_user = User(email= user_registration.email, password=hashed_password,university= user_registration.university, course=user_registration.course, semester= user_registration.semester, skills= user_registration.skills)\n            db.add(new_user)\n            db.commit()\n            db.refresh(new_user)",
+        "detail": "StudentJobs.StudentJobs.app.api.users",
+        "documentation": {}
+    },
+    {
+        "label": "new_user_login",
+        "kind": 2,
+        "importPath": "StudentJobs.StudentJobs.app.api.users",
+        "description": "StudentJobs.StudentJobs.app.api.users",
+        "peekOfCode": "def new_user_login(user_credentials:OAuth2PasswordRequestForm = Depends(), db : Session = Depends(get_db)):\n       user = db.query(models.User).filter(models.User.email == user_credentials.username).first()\n       if not user:\n            raise HTTPException(status_code=status.HTTP_403_FORBIDDEN, detail=\"Inavlid credentials\")\n       access_token = oauth2.create_access_token(data={\"user_id\": user.id})\n       return {\"access_token\": access_token, \"token_type\": \"bearer\"}",
+        "detail": "StudentJobs.StudentJobs.app.api.users",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "kind": 5,
+        "importPath": "StudentJobs.StudentJobs.app.api.users",
+        "description": "StudentJobs.StudentJobs.app.api.users",
+        "peekOfCode": "router = APIRouter(\n    prefix=\"/api/v2/users\",\n    tags = [\"Users\"]\n)\n@router.get(\"/register\", status_code=status.HTTP_201_CREATED, response_model= schemas.UserResponse)\ndef new_user_register(user_registration : schemas.UserCreate , db: Session = Depends(get_db)):\n        user = db.query(models.User).filter(User.email == user_registration.email).first()\n        if user:\n                raise HTTPException(status = status.HTTP_403_FORBIDDEN , detail=f\"User already registered with email {user_registration.email}\")\n        if not user:",
+        "detail": "StudentJobs.StudentJobs.app.api.users",
+        "documentation": {}
+    },
+    {
+        "label": "Settings",
+        "kind": 6,
+        "importPath": "StudentJobs.StudentJobs.app.config",
+        "description": "StudentJobs.StudentJobs.app.config",
+        "peekOfCode": "class Settings(BaseSettings):\n    database_hostname: str\n    database_password: str\n    database_name: str\n    database_username: str\n    secret_key: str\n    algorithm: str\n    access_token_expire_minutes: int\n    class Config:\n        env_file = \"app/.env\"",
+        "detail": "StudentJobs.StudentJobs.app.config",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "kind": 5,
+        "importPath": "StudentJobs.StudentJobs.app.config",
+        "description": "StudentJobs.StudentJobs.app.config",
+        "peekOfCode": "settings = Settings()",
+        "detail": "StudentJobs.StudentJobs.app.config",
+        "documentation": {}
+    },
+    {
+        "label": "get_db",
+        "kind": 2,
+        "importPath": "StudentJobs.StudentJobs.app.database",
+        "description": "StudentJobs.StudentJobs.app.database",
+        "peekOfCode": "def get_db():\n    db = SessionLocal()\n    try:\n        yield db\n    finally:\n        db.close()",
+        "detail": "StudentJobs.StudentJobs.app.database",
+        "documentation": {}
+    },
+    {
+        "label": "SQLALCHEMY_DATABASE_URL",
+        "kind": 5,
+        "importPath": "StudentJobs.StudentJobs.app.database",
+        "description": "StudentJobs.StudentJobs.app.database",
+        "peekOfCode": "SQLALCHEMY_DATABASE_URL = f\"postgresql://{settings.database_username}:{settings.database_password}@{settings.database_hostname}/{settings.database_name}\"\nengine = create_engine\nSessionLocal = sessionmaker(autocommit=False, autoflush=False, bind=engine)\nBase = declarative_base()\ndef get_db():\n    db = SessionLocal()\n    try:\n        yield db\n    finally:\n        db.close()",
+        "detail": "StudentJobs.StudentJobs.app.database",
+        "documentation": {}
+    },
+    {
+        "label": "engine",
+        "kind": 5,
+        "importPath": "StudentJobs.StudentJobs.app.database",
+        "description": "StudentJobs.StudentJobs.app.database",
+        "peekOfCode": "engine = create_engine\nSessionLocal = sessionmaker(autocommit=False, autoflush=False, bind=engine)\nBase = declarative_base()\ndef get_db():\n    db = SessionLocal()\n    try:\n        yield db\n    finally:\n        db.close()",
+        "detail": "StudentJobs.StudentJobs.app.database",
+        "documentation": {}
+    },
+    {
+        "label": "SessionLocal",
+        "kind": 5,
+        "importPath": "StudentJobs.StudentJobs.app.database",
+        "description": "StudentJobs.StudentJobs.app.database",
+        "peekOfCode": "SessionLocal = sessionmaker(autocommit=False, autoflush=False, bind=engine)\nBase = declarative_base()\ndef get_db():\n    db = SessionLocal()\n    try:\n        yield db\n    finally:\n        db.close()",
+        "detail": "StudentJobs.StudentJobs.app.database",
+        "documentation": {}
+    },
+    {
+        "label": "Base",
+        "kind": 5,
+        "importPath": "StudentJobs.StudentJobs.app.database",
+        "description": "StudentJobs.StudentJobs.app.database",
+        "peekOfCode": "Base = declarative_base()\ndef get_db():\n    db = SessionLocal()\n    try:\n        yield db\n    finally:\n        db.close()",
+        "detail": "StudentJobs.StudentJobs.app.database",
+        "documentation": {}
+    },
+    {
+        "label": "read_root",
+        "kind": 2,
+        "importPath": "StudentJobs.StudentJobs.app.main",
+        "description": "StudentJobs.StudentJobs.app.main",
+        "peekOfCode": "def read_root():\n    return {\"message\": \"Welcome to the Job Search Platform!\"}",
+        "detail": "StudentJobs.StudentJobs.app.main",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "kind": 5,
+        "importPath": "StudentJobs.StudentJobs.app.main",
+        "description": "StudentJobs.StudentJobs.app.main",
+        "peekOfCode": "app = FastAPI(title=\"StudentJobs\")\napp.include_router(users.router)\n#app.include_router(jobs.router)\n@app.get(\"/\")\ndef read_root():\n    return {\"message\": \"Welcome to the Job Search Platform!\"}",
+        "detail": "StudentJobs.StudentJobs.app.main",
+        "documentation": {}
+    },
+    {
+        "label": "JobApplication",
+        "kind": 6,
+        "importPath": "StudentJobs.StudentJobs.app.models",
+        "description": "StudentJobs.StudentJobs.app.models",
+        "peekOfCode": "class JobApplication(Base):\n    __tablename__ = 'jobs_applied_to'\n    user_id = Column(Integer, ForeignKey('users.id', ondelete=\"CASCADE\"), primary_key=True)\n    job_id = Column(Integer, ForeignKey('jobs.id', ondelete=\"CASCADE\"), primary_key=True)\n    user = relationship(\"User\", back_populates=\"jobs_applied_to\")\n    job = relationship(\"Job\", back_populates=\"applied_users\")\n# Association model for jobs a user is interested in (liked)\nclass JobInterest(Base):\n    __tablename__ = 'jobs_interested_in'\n    user_id = Column(Integer, ForeignKey('users.id', ondelete=\"CASCADE\"), primary_key=True)",
+        "detail": "StudentJobs.StudentJobs.app.models",
+        "documentation": {}
+    },
+    {
+        "label": "JobInterest",
+        "kind": 6,
+        "importPath": "StudentJobs.StudentJobs.app.models",
+        "description": "StudentJobs.StudentJobs.app.models",
+        "peekOfCode": "class JobInterest(Base):\n    __tablename__ = 'jobs_interested_in'\n    user_id = Column(Integer, ForeignKey('users.id', ondelete=\"CASCADE\"), primary_key=True)\n    job_id = Column(Integer, ForeignKey('jobs.id', ondelete=\"CASCADE\"), primary_key=True)\n    user = relationship(\"User\", back_populates=\"jobs_interested_in\")\n    job = relationship(\"Job\", back_populates=\"interested_users\")\n# User model representing the users on the platform\nclass User(Base):\n    __tablename__ = 'users'\n    id = Column(Integer, primary_key=True, index=True)",
+        "detail": "StudentJobs.StudentJobs.app.models",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "kind": 6,
+        "importPath": "StudentJobs.StudentJobs.app.models",
+        "description": "StudentJobs.StudentJobs.app.models",
+        "peekOfCode": "class User(Base):\n    __tablename__ = 'users'\n    id = Column(Integer, primary_key=True, index=True)\n    email = Column(String, unique=True, index=True)\n    password = Column(String, nullable=False)\n    university = Column(String, nullable=False)\n    course = Column(String, nullable=False)\n    semester = Column(String, nullable=False)\n    skills = Column(String, nullable=False)\n    created_at = Column(TIMESTAMP(timezone=True), nullable=False, server_default=text('now()'))",
+        "detail": "StudentJobs.StudentJobs.app.models",
+        "documentation": {}
+    },
+    {
+        "label": "Job",
+        "kind": 6,
+        "importPath": "StudentJobs.StudentJobs.app.models",
+        "description": "StudentJobs.StudentJobs.app.models",
+        "peekOfCode": "class Job(Base):\n    __tablename__ = 'jobs'\n    id = Column(Integer, primary_key=True, index=True)\n    title = Column(String, index=True)\n    job_title = Column(String, nullable=False)\n    company_name = Column(String, nullable=False)\n    user_id = Column(Integer, ForeignKey(\"users.id\", ondelete=\"CASCADE\"), nullable=False)\n    posted_at = Column(TIMESTAMP(timezone=True), nullable=False)\n    # Relationships\n    user = relationship(\"User\", back_populates=\"jobs\")",
+        "detail": "StudentJobs.StudentJobs.app.models",
+        "documentation": {}
+    },
+    {
+        "label": "Bookmark",
+        "kind": 6,
+        "importPath": "StudentJobs.StudentJobs.app.models",
+        "description": "StudentJobs.StudentJobs.app.models",
+        "peekOfCode": "class Bookmark(Base):\n    __tablename__ = \"bookmarks\"\n    id = Column(Integer, primary_key=True, index=True)\n    job_id = Column(Integer, ForeignKey(\"jobs.id\", ondelete=\"CASCADE\"), nullable=False)\n    user_id = Column(Integer, ForeignKey(\"users.id\", ondelete=\"CASCADE\"), nullable=False)\n    # Relationships\n    user = relationship(\"User\", back_populates=\"bookmarks\")\n    job = relationship(\"Job\", back_populates=\"bookmarks\")",
+        "detail": "StudentJobs.StudentJobs.app.models",
+        "documentation": {}
+    },
+    {
+        "label": "create_access_token",
+        "kind": 2,
+        "importPath": "StudentJobs.StudentJobs.app.oauth2",
+        "description": "StudentJobs.StudentJobs.app.oauth2",
+        "peekOfCode": "def create_access_token(data: dict):\n    to_encode = data.copy()\n    expire = datetime.utcnow() + timedelta(minutes=ACCESS_TOKEN_EXPIRE_MINUTES)\n    to_encode.update({\"exp\" : expire})\n    encoded_jwt = jwt.encode( to_encode, SECRET_KEY, algorithms=[ALGORITHM])\n    return encoded_jwt\ndef verify_access_token(token:str, credentials_exception):\n    try:\n        payload = jwt.decode(token, SECRET_KEY, algorithms=[ALGORITHM])\n        id : str = payload.get(\"user_id\")",
+        "detail": "StudentJobs.StudentJobs.app.oauth2",
+        "documentation": {}
+    },
+    {
+        "label": "verify_access_token",
+        "kind": 2,
+        "importPath": "StudentJobs.StudentJobs.app.oauth2",
+        "description": "StudentJobs.StudentJobs.app.oauth2",
+        "peekOfCode": "def verify_access_token(token:str, credentials_exception):\n    try:\n        payload = jwt.decode(token, SECRET_KEY, algorithms=[ALGORITHM])\n        id : str = payload.get(\"user_id\")\n        if id is None:\n            raise credentials_exception\n        token_data = schemas.TokenData(id=id)\n    except JWTError:\n        raise credentials_exception\n    return token_data",
+        "detail": "StudentJobs.StudentJobs.app.oauth2",
+        "documentation": {}
+    },
+    {
+        "label": "get_current_user",
+        "kind": 2,
+        "importPath": "StudentJobs.StudentJobs.app.oauth2",
+        "description": "StudentJobs.StudentJobs.app.oauth2",
+        "peekOfCode": "def get_current_user(token: str = Depends(oauth2_schema), db: Session = Depends(database.get_db)):\n    credentials_exception = HTTPException(status_code=status.HTTP_401_UNAUTHORIZED,\n                                          detail=f\"Could not validate credentials\", headers={\"WWW-Authenticate\": \"Bearer\"})\n    token = verify_access_token(token, credentials_exception)\n    user = db.query(models.User).filter(models.User.id == token.id).first()\n    return user",
+        "detail": "StudentJobs.StudentJobs.app.oauth2",
+        "documentation": {}
+    },
+    {
+        "label": "oauth2_schema",
+        "kind": 5,
+        "importPath": "StudentJobs.StudentJobs.app.oauth2",
+        "description": "StudentJobs.StudentJobs.app.oauth2",
+        "peekOfCode": "oauth2_schema = OAuth2PasswordBearer(tokenUrl='login') \nSECRET_KEY = settings.secret_key\nALGORITHM = settings.algorithm\nACCESS_TOKEN_EXPIRE_MINUTES = settings.access_token_expire_minutes\ndef create_access_token(data: dict):\n    to_encode = data.copy()\n    expire = datetime.utcnow() + timedelta(minutes=ACCESS_TOKEN_EXPIRE_MINUTES)\n    to_encode.update({\"exp\" : expire})\n    encoded_jwt = jwt.encode( to_encode, SECRET_KEY, algorithms=[ALGORITHM])\n    return encoded_jwt",
+        "detail": "StudentJobs.StudentJobs.app.oauth2",
+        "documentation": {}
+    },
+    {
+        "label": "SECRET_KEY",
+        "kind": 5,
+        "importPath": "StudentJobs.StudentJobs.app.oauth2",
+        "description": "StudentJobs.StudentJobs.app.oauth2",
+        "peekOfCode": "SECRET_KEY = settings.secret_key\nALGORITHM = settings.algorithm\nACCESS_TOKEN_EXPIRE_MINUTES = settings.access_token_expire_minutes\ndef create_access_token(data: dict):\n    to_encode = data.copy()\n    expire = datetime.utcnow() + timedelta(minutes=ACCESS_TOKEN_EXPIRE_MINUTES)\n    to_encode.update({\"exp\" : expire})\n    encoded_jwt = jwt.encode( to_encode, SECRET_KEY, algorithms=[ALGORITHM])\n    return encoded_jwt\ndef verify_access_token(token:str, credentials_exception):",
+        "detail": "StudentJobs.StudentJobs.app.oauth2",
+        "documentation": {}
+    },
+    {
+        "label": "ALGORITHM",
+        "kind": 5,
+        "importPath": "StudentJobs.StudentJobs.app.oauth2",
+        "description": "StudentJobs.StudentJobs.app.oauth2",
+        "peekOfCode": "ALGORITHM = settings.algorithm\nACCESS_TOKEN_EXPIRE_MINUTES = settings.access_token_expire_minutes\ndef create_access_token(data: dict):\n    to_encode = data.copy()\n    expire = datetime.utcnow() + timedelta(minutes=ACCESS_TOKEN_EXPIRE_MINUTES)\n    to_encode.update({\"exp\" : expire})\n    encoded_jwt = jwt.encode( to_encode, SECRET_KEY, algorithms=[ALGORITHM])\n    return encoded_jwt\ndef verify_access_token(token:str, credentials_exception):\n    try:",
+        "detail": "StudentJobs.StudentJobs.app.oauth2",
+        "documentation": {}
+    },
+    {
+        "label": "ACCESS_TOKEN_EXPIRE_MINUTES",
+        "kind": 5,
+        "importPath": "StudentJobs.StudentJobs.app.oauth2",
+        "description": "StudentJobs.StudentJobs.app.oauth2",
+        "peekOfCode": "ACCESS_TOKEN_EXPIRE_MINUTES = settings.access_token_expire_minutes\ndef create_access_token(data: dict):\n    to_encode = data.copy()\n    expire = datetime.utcnow() + timedelta(minutes=ACCESS_TOKEN_EXPIRE_MINUTES)\n    to_encode.update({\"exp\" : expire})\n    encoded_jwt = jwt.encode( to_encode, SECRET_KEY, algorithms=[ALGORITHM])\n    return encoded_jwt\ndef verify_access_token(token:str, credentials_exception):\n    try:\n        payload = jwt.decode(token, SECRET_KEY, algorithms=[ALGORITHM])",
+        "detail": "StudentJobs.StudentJobs.app.oauth2",
+        "documentation": {}
+    },
+    {
+        "label": "UserBase",
+        "kind": 6,
+        "importPath": "StudentJobs.StudentJobs.app.schemas",
+        "description": "StudentJobs.StudentJobs.app.schemas",
+        "peekOfCode": "class UserBase(BaseModel):\n    email: EmailStr\n    university: str\n    course: str\n    semester: str\n    skills: str\n# Model for creating a new user (e.g., during registration)\nclass UserCreate(UserBase):\n    password: str\n# Response model for reading user data",
+        "detail": "StudentJobs.StudentJobs.app.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "UserCreate",
+        "kind": 6,
+        "importPath": "StudentJobs.StudentJobs.app.schemas",
+        "description": "StudentJobs.StudentJobs.app.schemas",
+        "peekOfCode": "class UserCreate(UserBase):\n    password: str\n# Response model for reading user data\nclass UserResponse(UserBase):\n    id: int\n    created_at: datetime\n    jobs_applied_to: Optional[List[\"JobResponse\"]] = []  # Changed to JobResponse to match the job data\n    jobs_interested_in: Optional[List[\"JobResponse\"]] = []  # Changed to JobResponse to match the job data\n    class Config:\n        orm_mode = True",
+        "detail": "StudentJobs.StudentJobs.app.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "UserResponse",
+        "kind": 6,
+        "importPath": "StudentJobs.StudentJobs.app.schemas",
+        "description": "StudentJobs.StudentJobs.app.schemas",
+        "peekOfCode": "class UserResponse(UserBase):\n    id: int\n    created_at: datetime\n    jobs_applied_to: Optional[List[\"JobResponse\"]] = []  # Changed to JobResponse to match the job data\n    jobs_interested_in: Optional[List[\"JobResponse\"]] = []  # Changed to JobResponse to match the job data\n    class Config:\n        orm_mode = True\n# Shared base model for Job\nclass JobBase(BaseModel):\n    title: str",
+        "detail": "StudentJobs.StudentJobs.app.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "JobBase",
+        "kind": 6,
+        "importPath": "StudentJobs.StudentJobs.app.schemas",
+        "description": "StudentJobs.StudentJobs.app.schemas",
+        "peekOfCode": "class JobBase(BaseModel):\n    title: str\n    description: str\n    company_name: str\n# Model for creating a new job\nclass JobCreate(JobBase):\n    pass\n# Response model for reading job data\nclass JobResponse(JobBase):\n    id: int",
+        "detail": "StudentJobs.StudentJobs.app.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "JobCreate",
+        "kind": 6,
+        "importPath": "StudentJobs.StudentJobs.app.schemas",
+        "description": "StudentJobs.StudentJobs.app.schemas",
+        "peekOfCode": "class JobCreate(JobBase):\n    pass\n# Response model for reading job data\nclass JobResponse(JobBase):\n    id: int\n    user_id: int\n    posted_at: datetime\n    bookmarks: Optional[List[\"BookmarkResponse\"]] = []  # Changed to BookmarkResponse for consistency\n    class Config:\n        orm_mode = True",
+        "detail": "StudentJobs.StudentJobs.app.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "JobResponse",
+        "kind": 6,
+        "importPath": "StudentJobs.StudentJobs.app.schemas",
+        "description": "StudentJobs.StudentJobs.app.schemas",
+        "peekOfCode": "class JobResponse(JobBase):\n    id: int\n    user_id: int\n    posted_at: datetime\n    bookmarks: Optional[List[\"BookmarkResponse\"]] = []  # Changed to BookmarkResponse for consistency\n    class Config:\n        orm_mode = True\n# Shared base model for Bookmark\nclass BookmarkBase(BaseModel):\n    pass",
+        "detail": "StudentJobs.StudentJobs.app.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "BookmarkBase",
+        "kind": 6,
+        "importPath": "StudentJobs.StudentJobs.app.schemas",
+        "description": "StudentJobs.StudentJobs.app.schemas",
+        "peekOfCode": "class BookmarkBase(BaseModel):\n    pass\n# Model for creating a new bookmark\nclass BookmarkCreate(BookmarkBase):\n    job_id: int\n    user_id: int\n# Response model for reading bookmark data\nclass BookmarkResponse(BookmarkBase):\n    id: int\n    job_id: int",
+        "detail": "StudentJobs.StudentJobs.app.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "BookmarkCreate",
+        "kind": 6,
+        "importPath": "StudentJobs.StudentJobs.app.schemas",
+        "description": "StudentJobs.StudentJobs.app.schemas",
+        "peekOfCode": "class BookmarkCreate(BookmarkBase):\n    job_id: int\n    user_id: int\n# Response model for reading bookmark data\nclass BookmarkResponse(BookmarkBase):\n    id: int\n    job_id: int\n    user_id: int\n    class Config:\n        orm_mode = True",
+        "detail": "StudentJobs.StudentJobs.app.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "BookmarkResponse",
+        "kind": 6,
+        "importPath": "StudentJobs.StudentJobs.app.schemas",
+        "description": "StudentJobs.StudentJobs.app.schemas",
+        "peekOfCode": "class BookmarkResponse(BookmarkBase):\n    id: int\n    job_id: int\n    user_id: int\n    class Config:\n        orm_mode = True\n# Define Job Application Response\nclass JobsAppliedTo(BaseModel):\n    job_id: int\n    user_id: int",
+        "detail": "StudentJobs.StudentJobs.app.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "JobsAppliedTo",
+        "kind": 6,
+        "importPath": "StudentJobs.StudentJobs.app.schemas",
+        "description": "StudentJobs.StudentJobs.app.schemas",
+        "peekOfCode": "class JobsAppliedTo(BaseModel):\n    job_id: int\n    user_id: int\n    class Config:\n        orm_mode = True\n# Define Job Interest Response (Liked Jobs)\nclass JobsInterestedIn(BaseModel):\n    job_id: int\n    user_id: int\n    class Config:",
+        "detail": "StudentJobs.StudentJobs.app.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "JobsInterestedIn",
+        "kind": 6,
+        "importPath": "StudentJobs.StudentJobs.app.schemas",
+        "description": "StudentJobs.StudentJobs.app.schemas",
+        "peekOfCode": "class JobsInterestedIn(BaseModel):\n    job_id: int\n    user_id: int\n    class Config:\n        orm_mode = True\nclass Token(BaseModel):\n    access_token: str\n    token_type: str\nclass TokenData(BaseModel):\n    id: Optional[str] = None",
+        "detail": "StudentJobs.StudentJobs.app.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "Token",
+        "kind": 6,
+        "importPath": "StudentJobs.StudentJobs.app.schemas",
+        "description": "StudentJobs.StudentJobs.app.schemas",
+        "peekOfCode": "class Token(BaseModel):\n    access_token: str\n    token_type: str\nclass TokenData(BaseModel):\n    id: Optional[str] = None\n    class Config:\n        orm_mode = True",
+        "detail": "StudentJobs.StudentJobs.app.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "TokenData",
+        "kind": 6,
+        "importPath": "StudentJobs.StudentJobs.app.schemas",
+        "description": "StudentJobs.StudentJobs.app.schemas",
+        "peekOfCode": "class TokenData(BaseModel):\n    id: Optional[str] = None\n    class Config:\n        orm_mode = True",
+        "detail": "StudentJobs.StudentJobs.app.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "scrape_jobs",
+        "kind": 2,
+        "importPath": "StudentJobs.StudentJobs.app.services",
+        "description": "StudentJobs.StudentJobs.app.services",
+        "peekOfCode": "def scrape_jobs(work_position: str, location: str):\n    # Get the base URL from environment variables\n    url = os.getenv('url')\n    # Ensure the URL is valid\n    if not url:\n        print(\"Base URL not found in environment variables.\")\n        return\n    # Modify the URL with the work position and location\n    modified_url = f\"{url}?keywords={work_position}&location={location}\"\n    # Set up the Firefox browser options",
+        "detail": "StudentJobs.StudentJobs.app.services",
+        "documentation": {}
+    },
+    {
+        "label": "hash",
+        "kind": 2,
+        "importPath": "StudentJobs.StudentJobs.app.utils",
+        "description": "StudentJobs.StudentJobs.app.utils",
+        "peekOfCode": "def hash(password:str): # to hash the given password and store in the the database\n   return pwd_context.hash(password)\ndef verify_password(plain_password, hashed_password): # to verify the password in the database to verify the login\n   return pwd_context.verify(plain_password, hashed_password)\ndef convert_time_to_seconds(time_str):\n   units = {\"day\": 86400, \"hour\": 3600, \"days\": 86400, \"hours\": 3600}\n   value,unit = time_str.split()\n   return f\"r{int(value) * units[unit]}\"",
+        "detail": "StudentJobs.StudentJobs.app.utils",
+        "documentation": {}
+    },
+    {
+        "label": "verify_password",
+        "kind": 2,
+        "importPath": "StudentJobs.StudentJobs.app.utils",
+        "description": "StudentJobs.StudentJobs.app.utils",
+        "peekOfCode": "def verify_password(plain_password, hashed_password): # to verify the password in the database to verify the login\n   return pwd_context.verify(plain_password, hashed_password)\ndef convert_time_to_seconds(time_str):\n   units = {\"day\": 86400, \"hour\": 3600, \"days\": 86400, \"hours\": 3600}\n   value,unit = time_str.split()\n   return f\"r{int(value) * units[unit]}\"",
+        "detail": "StudentJobs.StudentJobs.app.utils",
+        "documentation": {}
+    },
+    {
+        "label": "convert_time_to_seconds",
+        "kind": 2,
+        "importPath": "StudentJobs.StudentJobs.app.utils",
+        "description": "StudentJobs.StudentJobs.app.utils",
+        "peekOfCode": "def convert_time_to_seconds(time_str):\n   units = {\"day\": 86400, \"hour\": 3600, \"days\": 86400, \"hours\": 3600}\n   value,unit = time_str.split()\n   return f\"r{int(value) * units[unit]}\"",
+        "detail": "StudentJobs.StudentJobs.app.utils",
+        "documentation": {}
+    },
+    {
+        "label": "pwd_context",
+        "kind": 5,
+        "importPath": "StudentJobs.StudentJobs.app.utils",
+        "description": "StudentJobs.StudentJobs.app.utils",
+        "peekOfCode": "pwd_context = CryptContext(schemes=['bcrypt'], deprecated=\"auto\")\ndef hash(password:str): # to hash the given password and store in the the database\n   return pwd_context.hash(password)\ndef verify_password(plain_password, hashed_password): # to verify the password in the database to verify the login\n   return pwd_context.verify(plain_password, hashed_password)\ndef convert_time_to_seconds(time_str):\n   units = {\"day\": 86400, \"hour\": 3600, \"days\": 86400, \"hours\": 3600}\n   value,unit = time_str.split()\n   return f\"r{int(value) * units[unit]}\"",
+        "detail": "StudentJobs.StudentJobs.app.utils",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "venv.Scripts.jp",
+        "description": "venv.Scripts.jp",
+        "peekOfCode": "def main():\n    parser = argparse.ArgumentParser()\n    parser.add_argument('expression')\n    parser.add_argument('-f', '--filename',\n                        help=('The filename containing the input data.  '\n                              'If a filename is not given then data is '\n                              'read from stdin.'))\n    parser.add_argument('--ast', action='store_true',\n                        help=('Pretty print the AST, do not search the data.'))\n    args = parser.parse_args()",
+        "detail": "venv.Scripts.jp",
+        "documentation": {}
+    }
+]
